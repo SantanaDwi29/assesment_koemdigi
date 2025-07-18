@@ -1,12 +1,11 @@
 # Assessment Koemdigi
+Koemdigi Assessment is a web-based application used to display company profile information and manage data such as products, articles, galleries, and clients. This application was created as part of a final project assessment, offering comprehensive features for both users and administrators.
 
-Assessment Koemdigi adalah aplikasi berbasis web yang digunakan untuk menampilkan informasi profil perusahaan serta mengelola data seperti produk, artikel, galeri, dan klien. Aplikasi ini dibuat sebagai bagian dari assessment untuk proyek akhir dengan fitur lengkap bagi pengguna (user) dan admin.
-
-## Tampilan Awal
+## Initial View
 
 ![Tampilan Aplikasi](assets/screenshot/awalPage.png)
 
-## Fitur
+## Feature 
 
 - Register page
 ![Register Page](assets/screenshot/registerPage.png)
@@ -14,48 +13,48 @@ Assessment Koemdigi adalah aplikasi berbasis web yang digunakan untuk menampilka
 - Login Page
 ![Login Page](assets/screenshot/loginPage.png)
 
-- Upload manajemn data (Admin)
+- Upload data management (Admin)
 ![Manajemen Produk](assets/screenshot/manajemenProdukAdmin.png)
 ![Manajemen Artikel](assets/screenshot/manajemArtikel.png)
 ![Manajemen Galeri](assets/screenshot/manajemenGaleri.png)
-- Validasi input
+- Input validation
 
-## Menu User
+## User Menu
 - Home 
 ![Manajemen Galeri](assets/screenshot/home.png)
-- Produk
+- Product
 ![Manajemen Galeri](assets/screenshot/produkPage.png)
-- Visi & Misi
+- Vision & Mission
 ![Manajemen Galeri](assets/screenshot/visi_misiPage.png)
-- Kontak
+- Contact
 ![Manajemen Galeri](assets/screenshot/contactPage.png)
-- Tentang Kami
-    - Profil Perusahaan
+- About Us
+    - Company Profile
     ![Manajemen Galeri](assets/screenshot/aboutUsPage.png)
-    - Pengalaman
+    - Experience 
     ![Manajemen Galeri](assets/screenshot/pengalaman.png)
-    - Kelebihan Kami
+    - Our advantages
     ![Manajemen Galeri](assets/screenshot/kelebihanKami.png)
-- Artikel
+- Article
 ![Manajemen Galeri](assets/screenshot/artikelPage.png)
-- Event Galery
+- Event Gallery
 ![Manajemen Galeri](assets/screenshot/galeriPage.png)
-- Klien Kami
+- Our Clients
 ![Manajemen Galeri](assets/screenshot/klienPage.png)
 
 
-## Tambahan Menu Admin
-- Tampilan Home Dashboard Admin
+## Additional Admin Menu
+- Admin Dashboard Home View
 ![Manajemen Galeri](assets/screenshot/home_admin.png)
 
-- Manajemen Produk
+- Product Management
 ![Manajemen Produk](assets/screenshot/manajemenProdukAdmin.png)
-- Manajemen Artikel
+- Article Management
 ![Manajemen Artikel](assets/screenshot/manajemArtikel.png)
-- Manajemen Galeri
+- Gallery Management
 ![Manajemen Galeri](assets/screenshot/manajemenGaleri.png)
 
-## Teknologi yang Digunakan
+## Technology Used
 
 - PHP (CodeIgniter Framework)
 - MySQL
@@ -64,4 +63,4 @@ Assessment Koemdigi adalah aplikasi berbasis web yang digunakan untuk menampilka
 
 ## Credit
 
-Dibuat oleh I Made Santana Dwiananda sebagai bagian dari sertifikasi assessment Koemdigi.
+Created by I Made Santana Dwiananda as part of the Koemdigi assessment certification.
