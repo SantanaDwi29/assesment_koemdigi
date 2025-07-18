@@ -1,66 +1,102 @@
 # Assessment Koemdigi
-Koemdigi Assessment is a web-based application used to display company profile information and manage data such as products, articles, galleries, and clients. This application was created as part of a final project assessment, offering comprehensive features for both users and administrators.
 
-## Initial View
+**Koemdigi Assessment** is a web-based application designed to showcase a company's profile and manage essential data such as products, articles, galleries, and clients.  
+This application was developed as part of a final project assessment, offering comprehensive features for both **users** and **administrators**.
 
-![Tampilan Aplikasi](assets/screenshot/awalPage.png)
+---
 
-## Feature 
+## 📌 Initial View
 
-- Register page
-![Register Page](assets/screenshot/registerPage.png)
+![Initial View](assets/screenshot/awalPage.png)
 
-- Login Page
-![Login Page](assets/screenshot/loginPage.png)
+---
 
-- Upload data management (Admin)
-![Manajemen Produk](assets/screenshot/manajemenProdukAdmin.png)
-![Manajemen Artikel](assets/screenshot/manajemArtikel.png)
-![Manajemen Galeri](assets/screenshot/manajemenGaleri.png)
-- Input validation
+## ✨ Features
 
-## User Menu
-- Home 
-![Manajemen Galeri](assets/screenshot/home.png)
-- Product
-![Manajemen Galeri](assets/screenshot/produkPage.png)
-- Vision & Mission
-![Manajemen Galeri](assets/screenshot/visi_misiPage.png)
-- Contact
-![Manajemen Galeri](assets/screenshot/contactPage.png)
-- About Us
-    - Company Profile
-    ![Manajemen Galeri](assets/screenshot/aboutUsPage.png)
-    - Experience 
-    ![Manajemen Galeri](assets/screenshot/pengalaman.png)
-    - Our advantages
-    ![Manajemen Galeri](assets/screenshot/kelebihanKami.png)
-- Article
-![Manajemen Galeri](assets/screenshot/artikelPage.png)
-- Event Gallery
-![Manajemen Galeri](assets/screenshot/galeriPage.png)
-- Our Clients
-![Manajemen Galeri](assets/screenshot/klienPage.png)
+### 🔐 Authentication
+- **Register Page**  
+  ![Register Page](assets/screenshot/registerPage.png)
+
+- **Login Page**  
+  ![Login Page](assets/screenshot/loginPage.png)
+
+### 🗂️ Admin Features
+- **Product Management**  
+  ![Manajemen Produk](assets/screenshot/manajemenProdukAdmin.png)
+
+- **Article Management**  
+  ![Manajemen Artikel](assets/screenshot/manajemArtikel.png)
+
+- **Gallery Management**  
+  ![Manajemen Galeri](assets/screenshot/manajemenGaleri.png)
+
+- **Input Validation**
+
+---
+
+## 👥 User Menu
+
+### 🏠 Home  
+![Home](assets/screenshot/home.png)
+
+### 📦 Product  
+![Product Page](assets/screenshot/produkPage.png)
+
+### 🎯 Vision & Mission  
+![Vision & Mission](assets/screenshot/visi_misiPage.png)
+
+### 📞 Contact  
+![Contact](assets/screenshot/contactPage.png)
+
+### 🏢 About Us
+- **Company Profile**  
+  ![About Us](assets/screenshot/aboutUsPage.png)
+
+- **Experience**  
+  ![Experience](assets/screenshot/pengalaman.png)
+
+- **Our Advantages**  
+  ![Advantages](assets/screenshot/kelebihanKami.png)
+
+### 📚 Article  
+![Article](assets/screenshot/artikelPage.png)
+
+### 🖼️ Event Gallery  
+![Gallery](assets/screenshot/galeriPage.png)
+
+### 🤝 Our Clients  
+![Clients](assets/screenshot/klienPage.png)
+
+---
+
+## 🛠️ Admin Dashboard
+
+- **Dashboard Home View**  
+  ![Dashboard](assets/screenshot/home_admin.png)
+
+- **Product Management**  
+  ![Product Management](assets/screenshot/manajemenProdukAdmin.png)
+
+- **Article Management**  
+  ![Article Management](assets/screenshot/manajemArtikel.png)
+
+- **Gallery Management**  
+  ![Gallery Management](assets/screenshot/manajemenGaleri.png)
+
+---
+
+## ⚙️ Technology Used
+
+- **PHP** (CodeIgniter Framework)
+- **MySQL**
+- **Tailwind CSS**
+- **jQuery**
+
+---
+
+## 👨‍💻 Credit
+
+Created by **I Made Santana Dwiananda**  
+_As part of the Koemdigi assessment certification project._
 
 
-## Additional Admin Menu
-- Admin Dashboard Home View
-![Manajemen Galeri](assets/screenshot/home_admin.png)
-
-- Product Management
-![Manajemen Produk](assets/screenshot/manajemenProdukAdmin.png)
-- Article Management
-![Manajemen Artikel](assets/screenshot/manajemArtikel.png)
-- Gallery Management
-![Manajemen Galeri](assets/screenshot/manajemenGaleri.png)
-
-## Technology Used
-
-- PHP (CodeIgniter Framework)
-- MySQL
-- Tailwind CSS
-- jQuery
-
-## Credit
-
-Created by I Made Santana Dwiananda as part of the Koemdigi assessment certification.
